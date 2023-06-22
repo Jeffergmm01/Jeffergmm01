@@ -2,8 +2,6 @@
 
 #### Seja bem vindo ao meu perfil. Sou apaixonado por tecnologia, e por isso me tornei um desenvolvedor. Sou formado em administração pela Universidade Positivo (Curitiba), e acredito que podemos resolver vários percalços do dia a dia empresarial com o uso de código.  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeffergmm01&show_icons=true&theme=cobalt)
-
 
 ### Sou desenvolvedor Full Stack e essas são as minhas hard skills:
 <div style="display: inline_block"><br>
